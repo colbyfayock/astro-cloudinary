@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/cloudinary-community/astro-cloudinary/compare/v1.3.5...v1.4.0) (2026-08-10)
+
+
+### Features
+
+* adopt Trusted Publishers ([4a51707](https://github.com/cloudinary-community/astro-cloudinary/commit/4a51707449332a10e07bb6bfc1e065900be23cd1))
+
 ## [1.3.5](https://github.com/cloudinary-community/astro-cloudinary/compare/v1.3.4...v1.3.5) (2025-10-02)
 
 
