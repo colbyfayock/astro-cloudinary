@@ -40,10 +40,9 @@
       }
     ],
     [
-      "@colbyfayock/semantic-release-pnpm",
+      "@semantic-release/npm",
       {
-        "pkgRoot": "astro-cloudinary",
-        "publishBranch": "main|beta"
+        "pkgRoot": "astro-cloudinary"
       }
     ],
     [

@@ -3,6 +3,10 @@
   "version": "1.3.5",
   "type": "module",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudinary-community/astro-cloudinary.git"
+  },
   "module": "./index.ts",
   "keywords": [
     "cloudinary",
